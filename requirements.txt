@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-ollama
+
+chromadb
+
+pdfplumber
+pypdf
+
+tqdm
+numpy
+requests
+
