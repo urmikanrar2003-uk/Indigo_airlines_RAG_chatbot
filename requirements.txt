@@ -2,14 +2,16 @@ langchain
 langchain-community
 langchain-text-splitters
 langchain-chroma
-langchain-ollama
+langchain-openai
 
 chromadb
 
 pdfplumber
 pypdf
 
+python-dotenv
+streamlit
+
 tqdm
 numpy
 requests
-
