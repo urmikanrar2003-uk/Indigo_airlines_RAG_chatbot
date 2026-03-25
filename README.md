@@ -187,8 +187,6 @@ vector_store.similarity_search(question, k=3)  # ← increase k for more context
 
 ## 🔒 Security Notes
 
-- Never commit your `.env` file — it's listed in `.gitignore`
-- Rotate your OpenAI API key immediately if accidentally pushed to GitHub
 - On Streamlit Cloud, secrets are managed via the **Advanced Settings** panel
 
 ---
