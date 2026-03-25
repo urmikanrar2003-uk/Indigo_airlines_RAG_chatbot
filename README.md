@@ -6,11 +6,6 @@
 
 ---
 
-## 📸 Preview
-
-![IndiGo Chatbot Screenshot](screenshot.png)
-
----
 
 ## 🧠 How It Works
 
